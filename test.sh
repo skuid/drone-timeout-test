@@ -1,6 +1,6 @@
 #!/bin/sh
 
-period=60
+period=61
 echo "sleeping for $period seconds"
 sleep $period
 echo "exiting"
