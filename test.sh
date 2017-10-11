@@ -1,7 +1,7 @@
 #!/bin/sh
 
-period=60
+period=45
 echo "sleeping for $period seconds"
-echo "exiting"
 sleep $period
+echo "exiting"
 exit 1
