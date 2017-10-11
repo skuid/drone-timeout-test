@@ -1,0 +1,5 @@
+pipeline:
+  test:
+    image: alpine:3.6
+    commands:
+    - sh test.sh
